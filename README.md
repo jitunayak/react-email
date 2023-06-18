@@ -1,3 +1,3 @@
 # React Email Nodejs
 
-![screenshot]('./snapshots/snap1.png')
+!['SnapShot'](https://github.com/jitunayak/react-email/blob/main/snapshots/snap1.png)
