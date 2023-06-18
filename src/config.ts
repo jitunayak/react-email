@@ -10,8 +10,8 @@ const path = configureEnvPath(env)
 dotenv.config({ path: path })
 
 export const CONFIG = {
-        MONGO_URI: process.env.MONGO_URI,
         ENV: process.env.NODE_ENV,
+        RESEND_API_KEY: process.env.RESEND_API_KEY,
 }
 
 validateEnvironment()

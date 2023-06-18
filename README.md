@@ -1,3 +1,3 @@
-# ts-node-template
+# React Email Nodejs
 
-> #### Create env folder at root level > dev.env & prod.env
+![screenshot]('./snapshots/snap1.png')
